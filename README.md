@@ -1,16 +1,20 @@
-# my_demo_app
+# 📱 My Demo App
 
-A new Flutter project.
+A simple **Flutter Android mobile app** demonstrating:
 
-## Getting Started
+- Splash screen
+- Login and Sign-Up forms
+- Form validation
+- Country selection from REST API
+- Token storage using `flutter_secure_storage`
+- API communication via `Dio`
+- Proper state management and error handling
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔐 **User Authentication** (Login & Sign-Up)
+- ✨ Custom styled UI components
+- 📦 Secure JWT storage
+- 🕒 Timeout handling with `Dio`
